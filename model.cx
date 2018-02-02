@@ -1,0 +1,10 @@
+in application CityVR
+
+class Building:/
+    int16 construct()
+    x: float32, tags={tags/position/x}
+    y: float32, tags={tags/position/z}
+    offset: float32, tags={tags/position/y}
+    width: float32, tags={tags/size/width}
+    height: float32, tags={tags/size/height}
+    depth: float32, tags={tags/size/depth}

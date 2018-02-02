@@ -1,0 +1,12 @@
+{
+    "id": "CityVR",
+    "type": "application",
+    "value": {
+        "description": "Making the world a better place",
+        "author": "Sander Mertens",
+        "version": "1.0.0",
+        "language": "c",
+        "use": ["tags"],
+        "lib": ["m"]
+    }
+}
